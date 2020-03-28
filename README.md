@@ -10,7 +10,7 @@ Dowload the zip archive from this [repository][1], and unzip the archive.
 The program can be used for source tracking of TCM preparations. Moreover, it can also generate ROC curves diagram. All analyses could be realized by run the "scripts/run.sh".
 
 ## Dependencies
--[tensorflow-gpu-1.14.0][2]  
+-[[tensorflow-gpu-1.14.0]][2]  
 -[python-3.7]  
 -[matplotlib-3.1.0]  
 -[numpy-1.16.4]  
